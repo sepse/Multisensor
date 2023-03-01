@@ -1,3 +1,3 @@
-# shqisori V1.0
-Shqisori per temperature, lageshti dhe drita - ne motherboard me LCD display.
-Punon me Arduino Nano, rrymen me adapter 5V
+# Multisensor module
+
+Measuring indoor air quality (TVOC, CO2), temperature, humidity, and presence detection using millimeter-wave sensor
